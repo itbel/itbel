@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Igor Belem</h1>
-<h5 align="center">I'm a Full Stack Developer located in Toronto</h3>
+<h3 align="center">I'm a Full Stack Developer located in Toronto</h3>
 
 
 <br/>
