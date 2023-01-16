@@ -20,6 +20,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-EFEFEF?style=for-the-badge&logo=node.js&logoColor=000)
 
 ##### Other
+![nextjs](https://img.shields.io/badge/Next.js-EFEFEF?style=for-the-badge&logo=next.js&logoColor=000)
 ![remix](https://custom-icon-badges.herokuapp.com/badge/Remix-EFEFEF?style=for-the-badge&logo=remix-run)
 ![aws-amplify](https://img.shields.io/badge/AWS%20AMPLIFY-EFEFEF?style=for-the-badge&logo=awsamplify&logoColor=000)
 
