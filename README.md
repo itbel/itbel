@@ -15,7 +15,6 @@
 ![html](https://img.shields.io/badge/HTML5-EFEFEF?style=for-the-badge&logo=html5&logoColor=000)
 ![css](https://img.shields.io/badge/CSS3-EFEFEF?style=for-the-badge&logo=css3&logoColor=000)
 ![sass](https://img.shields.io/badge/SASS-EFEFEF?style=for-the-badge&logo=sass&logoColor=000)
-![styled components](https://img.shields.io/badge/styled--components-EFEFEF?style=for-the-badge&logo=styled-components&logoColor=000)
 
 ##### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-EFEFEF?style=for-the-badge&logo=node.js&logoColor=000)
